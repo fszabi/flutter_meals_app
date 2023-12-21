@@ -1,3 +1,3 @@
 # Flutter Meals App
 
-Meals App created in Flutter
+Built in Flutter
